@@ -1,0 +1,7 @@
+#spring.application.name=websocket
+
+logging:
+  level:
+    org:
+      springframework:
+        messaging: trace
